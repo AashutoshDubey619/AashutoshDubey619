@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 Hi there, I'm Aashutosh Dubey! 👋
 
 ### 👨‍💻 Full-Stack Engineer | AI & RAG Devloper | DevOps Enthusiast
