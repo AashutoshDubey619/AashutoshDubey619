@@ -1,5 +1,10 @@
 <div align="center">
   <h1 align="left">Hello there, <br> I'm Aashutosh !</h1>
+  <p align="left">
+    <a href="https://github.com/AashutoshDubey619">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=false&vCenter=true&width=600&lines=Full-Stack+Engineer;GenAI+%26+RAG+Developer;AWS+%26+Docker+Enthusiast;500%2B+DSA+Problems+Solved!" alt="Typing SVG" />
+    </a>
+  </p>
 </div>
 
 <h3 align="left">About Me:</h3>
@@ -8,6 +13,23 @@
 <p align="left"> Whether it's containerizing environments with Docker, optimizing backend logic, or grinding Data Structures & Algorithms, I enjoy tackling complex technical challenges head-on.</p>
 <p align="left"> Always learning and building. Currently diving deeper into advanced vector database indexing and scalable system design.</p>
 
+---
+
+<h2 align="left">🔥 Top Projects</h2>
+<div align="center">
+  <a href="https://github.com/AashutoshDubey619/RepoRoverAWS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AashutoshDubey619&repo=RepoRoverAWS&theme=radical&v=4" width="48%" />
+  </a>
+  <a href="https://github.com/AashutoshDubey619/PostPilotAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AashutoshDubey619&repo=PostPilotAI&theme=radical&v=4" width="48%" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/AashutoshDubey619/Firangi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AashutoshDubey619&repo=Firangi&theme=radical&v=4" width="48%" />
+  </a>
+</div>
 
 ---
 
@@ -21,13 +43,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashutoshDubey619&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
   <img src="https://leetcard.jacoblin.cool/dark_passenger_47?theme=dark&font=Nunito&hide_border=true" width="48%" />
-</div>
-
-<br>
-
-<h2 align="center">Activity Graph</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AashutoshDubey619&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
 </div>
 
 ---
@@ -86,5 +101,28 @@
 
 ---
 
+<br>
+
+<h2 align="center">Activity Graph</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AashutoshDubey619&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
+</div>
+
+<br>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AashutoshDubey619/AashutoshDubey619/output/github-snake-dark.svg" alt="Snake animation" width="100%">
+</div>
+
+---
+
 <h2 align="left">Let's Connect:</h2>
 <p align="left">
+  <a href="https://www.linkedin.com/in/aashutosh-dubey-300596393" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:aashutoshd85@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
