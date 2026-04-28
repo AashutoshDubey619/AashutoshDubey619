@@ -110,7 +110,7 @@
 
 <br>
 
-<h2 align="center">🐍 Contributions Graph</h2>
+<h2 align="center">Contributions Graph</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/AashutoshDubey619/AashutoshDubey619/output/github-snake-dark.svg" alt="Snake animation" width="100%">
 </div>
