@@ -15,7 +15,7 @@
 
 ---
 
-<h2 align="left">🔥 Top Projects</h2>
+<!-- <h2 align="left">🔥 Top Projects</h2>
 <div align="center">
   <a href="https://github.com/AashutoshDubey619/RepoRoverAWS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AashutoshDubey619&repo=RepoRoverAWS&theme=radical&v=4" width="48%" />
@@ -29,7 +29,7 @@
   <a href="https://github.com/AashutoshDubey619/Firangi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AashutoshDubey619&repo=Firangi&theme=radical&v=4" width="48%" />
   </a>
-</div>
+</div> -->
 
 ---
 
