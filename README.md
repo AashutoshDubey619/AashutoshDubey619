@@ -2,7 +2,7 @@
   <h1 align="left">Hello there, <br> I'm Aashutosh !</h1>
   <p align="left">
     <a href="https://github.com/AashutoshDubey619">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=false&vCenter=true&width=600&lines=Full-Stack+Developer;GenAI+%26+RAG+Developer;AWS+%26+Docker+Enthusiast;500%2B+DSA+Problems+Solved!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=false&vCenter=true&width=600&lines=Full-Stack+Developer;GenAI+%26+RAG+Developer;AWS+%26+Docker+Enthusiast;700%2B+DSA+Problems+Solved!" alt="Typing SVG" />
     </a>
   </p>
 </div>
